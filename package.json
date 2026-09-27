@@ -1,0 +1,29 @@
+{
+  "name": "dispatch-queue",
+  "version": "0.2.7",
+  "description": "simple job queue",
+  "keywords": [
+    "postgresql",
+    "exress"
+  ],
+  "homepage": "https://github.com/elite-coder-2026/dispatch-queue#readme",
+  "bugs": {
+    "url": "https://github.com/elite-coder-2026/dispatch-queue/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elite-coder-2026/dispatch-queue.git"
+  },
+  "license": "MIT",
+  "author": "darrell parkhouse",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.4",
+    "express": "^5.2.1",
+    "pg": "^8.23.0"
+  }
+}
